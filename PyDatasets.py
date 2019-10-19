@@ -39,10 +39,3 @@ def get_svhn(train=False, transform=None, download=True):
                             transform=transform,
                             download=download)
 
-
-
-
-if __name__ == '__main__':
-
-    a = pad_image()
-    
